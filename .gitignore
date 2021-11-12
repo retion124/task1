@@ -3,3 +3,17 @@
 /.idea/workspace.xml
 *.xml
 *.txt
+**/target/
+/target/
+*/target/*
+.classpath
+.project
+.settings
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+*.iml
+*.idea
